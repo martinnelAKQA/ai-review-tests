@@ -6,11 +6,20 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "classix": "^2.1.36",
+    "cx": "^24.4.2",
     "next": "latest",
+    "postcss": "^8.4.38",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3",
+    "sass": "^1.74.1",
+    "sass-alias": "^2.0.1"
   }
 }
